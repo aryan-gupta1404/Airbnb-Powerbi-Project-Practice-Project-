@@ -3,7 +3,7 @@ An interactive Power BI dashboard designed to explore Airbnb listings, reviews, 
 
 This project was recreated as a hands-on Power BI learning project based on Mansi Goel's Airbnb Power BI project, with a focus on understanding the complete workflow from data preparation and modeling to DAX calculations and interactive dashboard design.
 
-1. Project Overview
+# 1. Project Overview
 
 The Global Airbnb Performance Dashboard provides an analytical view of Airbnb's performance across different cities, property types, review patterns, ratings, and host characteristics.
 
@@ -15,7 +15,7 @@ Reviews & Seasonality — Analysis of reviewer frequency, monthly review pattern
 
 This project provided hands-on experience with the complete Power BI workflow rather than focusing only on individual features.
 
-2. Short Description / Purpose
+# 2. Short Description / Purpose
 
 The purpose of this dashboard is to provide an interactive way to analyze Airbnb performance across major cities and identify patterns in listings, reviews, ratings, pricing, and seasonality.
 
@@ -27,7 +27,8 @@ How frequently do customers leave reviews?
 How do ratings differ across cities?
 How does review activity change throughout the year?
 What proportion of hosts provide identity or trust signals?
-3. Tech Stack
+
+# 3. Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -36,7 +37,8 @@ Power Query — Used for data preparation and transformation.
 DAX (Data Analysis Expressions) — Used to create calculated columns and measures.
 Data Modeling — Relationships between the Listings and Reviews tables were used for analysis and cross-filtering.
 File Formats — .pbix / .pbit for Power BI development and .png for dashboard previews.
-4. Data Source
+
+# 4. Data Source
 
 The project uses Airbnb listing and review data covering 10 major cities.
 
@@ -61,14 +63,15 @@ The completed dashboard reports approximately:
 182K hosts
 144 property types
 5.37M reviews
-5. Features and Highlights
-5.1 Business Problem
+
+# 5. Features and Highlights
+**5.1 Business Problem**
 
 Airbnb generates large amounts of data across listings, reviews, prices, ratings, and host characteristics. Looking at the raw data makes it difficult to quickly compare cities, understand customer review behavior, or identify seasonal patterns.
 
 This dashboard provides an interactive way to explore these patterns and turn the underlying data into more accessible insights.
 
-5.2 Goal of the Dashboard
+**5.2 Goal of the Dashboard**
 
 The main goals of the dashboard are to:
 
@@ -80,7 +83,8 @@ Examine ratings across different dimensions.
 Identify seasonal patterns in review activity.
 Analyze host trust and identity signals.
 Present the analysis through an interactive Power BI report.
-5.3 Dashboard Walkthrough
+
+**5.3 Dashboard Walkthrough**
 Page 1 — Introduction & Growth
 
 The first page provides a high-level overview of the Airbnb dataset.
@@ -171,7 +175,7 @@ Identity verification
 
 The analysis shows that more than two-thirds of Airbnb hosts are fully verified, while most hosts provide at least one trust signal.
 
-6. Key Learning Outcomes
+# 6. Key Learning Outcomes
 
 This project provided hands-on experience with several Power BI concepts.
 
@@ -206,7 +210,7 @@ Cumulative calculations
 
 One of the biggest lessons from the project was understanding the difference between calculated columns and measures, particularly while working on the review-frequency analysis.
 
-7. Challenges and Takeaways
+# 7. Challenges and Takeaways
 
 The most challenging part of the project was DAX.
 
@@ -220,13 +224,13 @@ What am I trying to calculate, what context is the calculation operating in, and
 
 The debugging process was frustrating at times, but it made the concepts much more memorable and showed me the areas where I need more practice.
 
-8. Favorite Feature
+# 8. Favorite Feature
 
 One of my favorite Power BI features from this project was Bookmarks.
 
 I enjoyed using bookmarks to create a more interactive dashboard experience, and I plan to incorporate them into my upcoming Power BI projects.
 
-9. Dashboard Preview
+# 9. Dashboard Preview
 Page 1 — Introduction & Growth
 
 
@@ -244,7 +248,7 @@ Page 3 — Reviews & Seasonality
 
 Replace the image paths above with the actual screenshots uploaded to the repository.
 
-10. Future Improvements
+# 10. Future Improvements
 
 As this was a guided learning project, my next focus is to build on what I learned by:
 
@@ -254,7 +258,7 @@ Improving data modeling skills.
 Building more dashboards with less guidance.
 Applying Power BI concepts to different datasets.
 Gradually moving toward completely independent projects.
-11. Acknowledgement
+# 11. Acknowledgement
 
 This project was recreated as a learning exercise based on Mansi Goel's Airbnb Power BI project.
 
