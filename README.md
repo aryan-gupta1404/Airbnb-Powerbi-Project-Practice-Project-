@@ -85,6 +85,7 @@ Analyze host trust and identity signals.
 Present the analysis through an interactive Power BI report.
 
 **5.3 Dashboard Walkthrough**
+
 Page 1 — Introduction & Growth
 
 The first page provides a high-level overview of the Airbnb dataset.
